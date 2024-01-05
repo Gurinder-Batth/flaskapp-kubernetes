@@ -1,0 +1,1 @@
+# Flask app code for get Started with Helm, ArgoCD, Kubernetes
