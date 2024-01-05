@@ -21,7 +21,7 @@ def index():
     return render_template('index.html')
 
 @app.route('/payment_page')
-def index():
+def payment():
     return render_template('payment_page.html')
   
 @app.route('/video_feed')
